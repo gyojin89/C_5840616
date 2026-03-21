@@ -1,0 +1,19 @@
+function GCD(a, b):
+    a ← |a| ; b ← |b|
+    while b ≠ 0:
+        r ← a mod b
+        a ← b
+        b ← r
+    return a
+
+function LCM(a, b):
+    if a = 0 or b = 0:
+        return 0
+    g ← GCD(a, b)
+    return (|a| / g) * |b|
+
+main:
+    read x, y
+    g ← GCD(x, y)
+    l ← LCM(x, y)
+    print "GCD:", g, ", LCM:", l
