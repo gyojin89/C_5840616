@@ -1,5 +1,5 @@
 ### <과제 코드>
-'''
+'''c
 #include <stdio.h>
 #include <time.h>
 #include <sys/resource.h>
