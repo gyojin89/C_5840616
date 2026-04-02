@@ -1,6 +1,6 @@
 ### <과제 코드>
-
-'''#include <stdio.h>
+₩₩₩
+#include <stdio.h>
 #include <time.h>
 #include <sys/resource.h>
 
@@ -45,7 +45,7 @@ int main() {
     }
 
     return 0; 
-}'''
+}₩₩₩
 
 <img width="436" height="547" alt="스크린샷 2026-04-02 오후 2 52 27" src="https://github.com/user-attachments/assets/c45e05e4-9e5a-439f-af1d-41114573a29f" />
 
